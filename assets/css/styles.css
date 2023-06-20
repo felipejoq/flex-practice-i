@@ -80,6 +80,10 @@ h1,h2,h3 {
     align-items: center;
 }
 
+.message-icon, .hamburger-icon {
+    cursor: pointer;
+}
+
 .chats {
 }
 
